@@ -3,7 +3,7 @@
 int main(int argc, char *argv[])
 {
 	int opc;
-	char childprim[]="MainPrim.exe", childsec[]="";
+	char childprim[]="MainPrim.exe", childsec[]="MainSec.exe";
 	do
 	{
 		printf("BIENVENIDO A LA CALCULADORA\n\n\n\n Que clase de alumno es?\n 1) Primaria\n 2) Secundaria\n 3) Otro\n 4) Deseo Salir\n");
