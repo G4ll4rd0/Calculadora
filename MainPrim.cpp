@@ -5,7 +5,7 @@
 int main(int argc, char** argv)
 {
 	int sas=0;
-	char child1[]="", child2[]="2VP.exe", child3[]="3FG.exe", child4[]="", child5[]="", child6[]="", child7[]="", child8[]="", child9[]="", child10[]="", child11[]="", child12[]="", child13[]="13Romanos.exe", child14[]="14PeI";
+	char child1[]="", child2[]="2VP.exe", child3[]="3FG.exe", child4[]="", child5[]="", child6[]="", child7[]="7ED.exe", child8[]="8CT.exe", child9[]="", child10[]="", child11[]="", child12[]="", child13[]="13Romanos.exe", child14[]="14PeI";
 	do
 	{
 		system("cls");
